@@ -1,0 +1,47 @@
+
+
+div {
+    display: flex;
+    width: 700px;
+    align-items: center;
+    background-color: rgb(50, 50, 138);
+    color: skyblue;
+    border-radius: 10px;
+    font-family: "Roboto", sans-serif;
+    
+}
+img{
+    display: flex;
+    float: inline-start;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    padding: 30px;
+    
+}
+.line{
+    height: 1px;
+    width: 185px;
+    background: skyblue;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+li{
+    list-style: none;
+}
+.info{
+    line-height: 2;
+}
+i{
+    padding-right: 10px;
+    font-size: 16px;
+}
+h1{
+    font-size: 35px;
+    margin: 0;
+}
+ul{
+    
+    padding: 0;
+}
